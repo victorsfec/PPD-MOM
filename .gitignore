@@ -1,0 +1,14 @@
+# Ignorar arquivos compilados intermediários
+class/
+*.class
+
+# Ignorar arquivos de sistema e IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# Ignorar arquivos compactados grandes
+*.zip
+*.rar

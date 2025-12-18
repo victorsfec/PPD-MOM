@@ -1,0 +1,355 @@
+2025-12-17 11:14:53,963 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:53,974 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,009 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-17 11:14:54,010 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-17 11:14:54,341 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,341 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-17 11:14:54,341 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,341 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,519 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-50725-1765980894371-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,549 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,559 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-17 11:14:54,559 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,569 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-17 11:14:54,569 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,569 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-17 11:14:54,609 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,609 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-17 11:14:54,619 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,699 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-17 11:14:54,781 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@455790{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-17 11:14:54,927 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-17 11:14:54,927 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-17 11:14:54,927 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-50725-1765980894371-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:54,927 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-17 11:14:56,158 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-17 11:14:56,158 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 08:30:52,218 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:52,243 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:52,298 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 08:30:52,298 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 08:30:52,428 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 08:30:52,436 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 08:30:52,438 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 08:30:53,016 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:53,020 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 08:30:53,020 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:53,020 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:53,296 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-57852-1766057453086-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:53,499 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,499 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:30:53,509 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,517 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:30:53,527 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,527 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:30:53,580 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,580 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:30:53,590 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,711 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 08:30:53,893 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@26187c6d{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 08:30:54,084 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 08:30:54,084 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:30:54,084 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-57852-1766057453086-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:54,084 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:30:58,914 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 08:30:58,916 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 08:54:51,271 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:51,287 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:51,313 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 08:54:51,313 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 08:54:51,404 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 08:54:51,412 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 08:54:51,423 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 08:54:52,015 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:52,016 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 08:54:52,016 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:52,016 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:52,198 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58095-1766058892037-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:52,328 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,328 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:54:52,337 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,337 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:54:52,347 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,349 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:54:52,363 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,363 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:54:52,373 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,470 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 08:54:52,558 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@26187c6d{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 08:54:52,701 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 08:54:52,701 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 08:54:52,701 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58095-1766058892037-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:52,701 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 08:54:54,392 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 08:54:54,392 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:09:31,519 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:31,536 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:31,573 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 11:09:31,573 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:09:31,687 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:09:31,700 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:09:31,776 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:09:32,069 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:32,070 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 11:09:32,070 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:32,070 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:32,303 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58538-1766066972127-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:32,483 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,485 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:09:32,495 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,495 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:09:32,513 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,516 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:09:32,525 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,525 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:09:32,536 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,637 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:09:32,732 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@26187c6d{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 11:09:32,894 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 11:09:32,894 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:09:32,894 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58538-1766066972127-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:32,898 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:09:34,728 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:09:34,728 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:16:40,100 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58538-1766066972127-0:1) is shutting down | org.apache.activemq.broker.BrokerService | Thread-23
+2025-12-18 11:16:40,101 | INFO  | Connector openwire stopped | org.apache.activemq.broker.TransportConnector | Thread-23
+2025-12-18 11:16:40,101 | INFO  | Connector amqp stopped | org.apache.activemq.broker.TransportConnector | Thread-23
+2025-12-18 11:16:40,101 | INFO  | Connector stomp stopped | org.apache.activemq.broker.TransportConnector | Thread-23
+2025-12-18 11:16:40,101 | INFO  | Connector mqtt stopped | org.apache.activemq.broker.TransportConnector | Thread-23
+2025-12-18 11:16:40,111 | INFO  | Connector ws stopped | org.apache.activemq.broker.TransportConnector | Thread-23
+2025-12-18 11:16:40,111 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] stopped | org.apache.activemq.store.kahadb.plist.PListStoreImpl | Thread-23
+2025-12-18 11:16:40,111 | INFO  | Stopping async queue tasks | org.apache.activemq.store.kahadb.KahaDBStore | Thread-23
+2025-12-18 11:16:40,111 | INFO  | Stopping async topic tasks | org.apache.activemq.store.kahadb.KahaDBStore | Thread-23
+2025-12-18 11:16:40,111 | INFO  | Stopped KahaDB | org.apache.activemq.store.kahadb.KahaDBStore | Thread-23
+2025-12-18 11:16:40,123 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58538-1766066972127-0:1) uptime 7 minutes | org.apache.activemq.broker.BrokerService | Thread-23
+2025-12-18 11:16:40,123 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58538-1766066972127-0:1) is shutdown | org.apache.activemq.broker.BrokerService | Thread-23
+2025-12-18 11:16:52,374 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:52,390 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:52,407 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 11:16:52,417 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:16:52,490 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:16:52,758 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:52,758 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 11:16:52,758 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:52,758 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:52,952 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58618-1766067412792-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:53,107 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,107 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:16:53,126 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,126 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:16:53,138 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,138 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:16:53,145 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,155 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:16:53,171 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,233 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:16:53,307 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@556a2a8c{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 11:16:53,430 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 11:16:53,430 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:16:53,430 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58618-1766067412792-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:53,430 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:16:54,894 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:16:54,895 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:18:09,468 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:09,478 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:09,498 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 11:18:09,498 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:18:09,568 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:18:09,576 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:18:09,576 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 0 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:18:09,786 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:09,786 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 11:18:09,786 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:09,786 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:09,947 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58654-1766067489806-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:10,067 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,067 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:18:10,077 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,077 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:18:10,087 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,087 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:18:10,097 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,097 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:18:10,097 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,157 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:18:10,227 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@397c778f{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 11:18:10,347 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 11:18:10,347 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:18:10,347 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58654-1766067489806-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:10,347 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:18:11,347 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:18:11,347 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:31:40,820 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:40,832 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:40,908 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 11:31:40,909 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:31:41,070 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:31:41,327 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:31:41,337 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:31:41,656 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:41,657 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 11:31:41,657 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:41,657 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:41,851 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58851-1766068301682-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:42,054 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,056 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:31:42,066 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,067 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:31:42,076 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,077 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:31:42,088 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,088 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:31:42,096 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,182 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:31:42,278 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@2d040443{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 11:31:42,424 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 11:31:42,424 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:31:42,424 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58851-1766068301682-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:42,426 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:31:44,247 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:31:44,248 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:37:21,798 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:21,808 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:21,828 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 11:37:21,828 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:37:21,888 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:37:21,902 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 11:37:21,902 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 11:37:22,185 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:22,185 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\PPD-MOM\MOM\lib\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 11:37:22,195 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:22,195 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:22,367 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58939-1766068642212-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:22,492 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,492 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:37:22,502 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,502 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:37:22,512 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,512 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:37:22,520 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,521 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:37:22,526 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,600 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 11:37:22,689 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@750c867a{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 11:37:22,836 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 11:37:22,836 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 11:37:22,836 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-58939-1766068642212-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:22,836 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 11:37:24,274 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 11:37:24,274 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 12:35:40,304 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:40,304 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:40,335 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 12:35:40,335 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 12:35:40,414 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 12:35:40,429 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 12:35:40,445 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 12:35:40,782 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:40,794 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 12:35:40,794 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:40,794 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:40,994 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59383-1766072140830-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:41,128 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,128 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:35:41,144 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,144 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:35:41,165 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,178 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:35:41,195 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,195 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:35:41,195 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,327 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 12:35:41,397 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@2d040443{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 12:35:41,561 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 12:35:41,561 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:35:41,561 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59383-1766072140830-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:41,561 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:35:43,220 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 12:35:43,220 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 12:41:00,852 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:00,868 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:00,899 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 12:41:00,899 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 12:41:00,977 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 12:41:00,977 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 12:41:00,989 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 12:41:01,239 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:01,239 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 12:41:01,239 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:01,239 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:01,426 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59428-1766072461254-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:01,583 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,583 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:41:01,598 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,598 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:41:01,614 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,629 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:41:01,629 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,629 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:41:01,645 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,770 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 12:41:01,888 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@322dc3ab{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 12:41:02,029 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 12:41:02,029 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 12:41:02,029 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59428-1766072461254-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:02,029 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 12:41:03,437 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 12:41:03,437 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 13:06:27,650 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:27,677 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:27,768 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 13:06:27,768 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 13:06:27,897 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 13:06:27,899 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 13:06:27,907 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 13:06:28,392 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:28,394 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 13:06:28,394 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:28,394 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:28,637 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59619-1766073988439-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:28,891 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:06:28,891 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:06:28,902 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:06:28,903 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:06:28,905 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:06:28,905 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:06:28,920 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:06:28,920 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:06:28,936 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 13:06:29,034 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 13:06:29,155 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@2d040443{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 13:06:29,304 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 13:06:29,304 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:06:29,304 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59619-1766073988439-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:29,304 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:06:30,901 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 13:06:30,902 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 13:33:36,061 | INFO  | Using Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,081 | INFO  | Starting Persistence Adapter: KahaDBPersistenceAdapter[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\kahadb] | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,101 | INFO  | Starting KahaDBStore | org.apache.activemq.store.kahadb.KahaDBStore | WrapperSimpleAppMain
+2025-12-18 13:33:36,101 | INFO  | Opening MessageDatabase | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 13:33:36,230 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovering pageFile free list due to prior unclean shutdown.. | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 13:33:36,241 | INFO  | KahaDB is version 7 | org.apache.activemq.store.kahadb.MessageDatabase | WrapperSimpleAppMain
+2025-12-18 13:33:36,241 | INFO  | Page File: ..\..\data\kahadb\db.data. Recovered pageFile free list of size: 7 | org.apache.activemq.store.kahadb.disk.page.PageFile | KahaDB Index Free Page Recovery
+2025-12-18 13:33:36,670 | INFO  | Starting Temp Data Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,670 | INFO  | PListStore:[C:\Users\VictorSF\Documents\Git - IFCE\apache-activemq-5.19.1\bin\win64\..\..\data\localhost\tmp_storage] started | org.apache.activemq.store.kahadb.plist.PListStoreImpl | WrapperSimpleAppMain
+2025-12-18 13:33:36,670 | INFO  | Starting Job Scheduler Store | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,670 | INFO  | Persistence Adapter successfully started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,843 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59795-1766075616690-0:1) is starting | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:36,981 | INFO  | Listening for connections at: tcp://DESKTOP-LOG2Q4K:61616?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:33:36,991 | INFO  | Connector openwire started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:33:37,001 | INFO  | Listening for connections at: amqp://DESKTOP-LOG2Q4K:5672?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:33:37,001 | INFO  | Connector amqp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:33:37,001 | INFO  | Listening for connections at: stomp://DESKTOP-LOG2Q4K:61613?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:33:37,001 | INFO  | Connector stomp started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:33:37,021 | INFO  | Listening for connections at: mqtt://DESKTOP-LOG2Q4K:1883?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.TransportServerThreadSupport | WrapperSimpleAppMain
+2025-12-18 13:33:37,021 | INFO  | Connector mqtt started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:33:37,041 | INFO  | Starting Jetty server | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 13:33:37,152 | INFO  | Creating Jetty connector | org.apache.activemq.transport.WebTransportServerSupport | WrapperSimpleAppMain
+2025-12-18 13:33:37,280 | WARN  | ServletContext@o.e.j.s.ServletContextHandler@2d040443{/,null,STARTING} has uncovered http methods for path: / | org.eclipse.jetty.security.SecurityHandler | WrapperSimpleAppMain
+2025-12-18 13:33:37,510 | INFO  | Listening for connections at ws://DESKTOP-LOG2Q4K:61614?maximumConnections=1000&wireFormat.maxFrameSize=104857600 | org.apache.activemq.transport.ws.WSTransportServer | WrapperSimpleAppMain
+2025-12-18 13:33:37,510 | INFO  | Connector ws started | org.apache.activemq.broker.TransportConnector | WrapperSimpleAppMain
+2025-12-18 13:33:37,510 | INFO  | Apache ActiveMQ 5.19.1 (localhost, ID:DESKTOP-LOG2Q4K-59795-1766075616690-0:1) started | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:37,510 | INFO  | For help or more information please see: http://activemq.apache.org | org.apache.activemq.broker.BrokerService | WrapperSimpleAppMain
+2025-12-18 13:33:38,721 | INFO  | ActiveMQ WebConsole available at http://127.0.0.1:8161/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
+2025-12-18 13:33:38,731 | INFO  | ActiveMQ Jolokia REST API available at http://127.0.0.1:8161/api/jolokia/ | org.apache.activemq.web.WebConsoleStarter | WrapperSimpleAppMain
